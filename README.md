@@ -6,5 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chi-Shan0707&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <br> -->
 
+![Metrics](/github-metrics.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chi-Shan0707&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
