@@ -1,3 +1,8 @@
+Stochasticity makes algorithm more robust. So
+are humans.<br> 
+Hence, I shall embrace the uncertainty.
+
+
 ![Metrics](/github-metrics.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chi-Shan0707&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
