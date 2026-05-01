@@ -13,8 +13,6 @@ Hence, I shall embrace the uncertainty.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chi-Shan0707&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <br> -->
 
-🔗 [github-unflag-playbook-cn](https://github.com/Chi-Shan0707/github-unflag-playbook-cn)
-![](https://img.shields.io/badge/Repo-github--unflag--playbook--cn-blue)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chi-Shan0707/Chi-Shan0707/output/github-contribution-grid-snake-dark.svg">
