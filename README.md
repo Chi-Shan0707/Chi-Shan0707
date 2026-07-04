@@ -20,3 +20,6 @@ Hence, I shall embrace the uncertainty.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chi-Shan0707/Chi-Shan0707/output/github-contribution-grid-snake.svg">
 </picture>
 
+**Fudan Open Source Initiative (FDU-OSI)**
+
+I launched the **[Fudan Open Source Initiative](https://github.com/Chi-Shan0707/fdu-opensource-initiative)**, which proposes a unified convention for GitHub repository naming and topic tagging among Fudan University developers, aiming to streamline how we share, discover, discuss, and collaborate on campus open-source projects.
